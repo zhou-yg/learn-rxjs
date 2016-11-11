@@ -1,4 +1,4 @@
-//Sub更像是外部执行
+
 const Rx = require('rxjs');
 
 
